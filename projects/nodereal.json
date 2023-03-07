@@ -1,0 +1,16 @@
+{
+  "name": "NodeReal",
+  "slug": "nodereal",
+  "date": "2021-09-01",
+  "highlight": "NodeReal offer complete blockchain infrastructure and services for all, with a focus on scalability, reliability, and efficiency.",
+  "logo": "/img/nodereal.png",
+  "tags": ["api","infrastructure","nodes","tools"],
+  "status": "live",
+  "website": "https://nodereal.io",
+  "twitter": "https://twitter.com/Nodereal_io",
+  "summary": "NodeReal is a one-stop blockchain infrastructure and service provider that embraces the high-speed blockchain era and empowers developers by “Make your Web3 Real”. We provide scalable, reliable, and efficient blockchain solutions for everyone, aiming to support the adoption, growth, and long-term success of the Web3 ecosystem.",
+  "discord": "https://discord.com/invite/nodereal",
+  "docs": "https://docs.nodereal.io/docs/intro-nodereal",
+  "github": "https://github.com/node-real",
+  
+}
